@@ -15,8 +15,8 @@ deps = [
     'pygtrie>=2.3.3'
 ]
 
-if sys.version[0] == '3':
-    deps.append('wxpython==4.1.0')
+# if sys.version[0] == '3':
+#     deps.append('wxpython==4.1.0')
 
 
 setup(
